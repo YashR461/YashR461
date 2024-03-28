@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YashR461/YashR461/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
