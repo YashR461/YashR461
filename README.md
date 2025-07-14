@@ -77,13 +77,8 @@
 ###
 
 <div align="center">
-    <img src="https://leetcode-badge-sage.vercel.app/badge/rastogiyash461?theme=dark&bgColor=282828" alt="Dmytro Baida's LeetCode stats dark" />
-</div>
-
-<div align="center">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=rastogiyash461" alt="LeetCode Badges" />
 </div>
-
 
 ###
 
